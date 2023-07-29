@@ -1,0 +1,23 @@
+[33mcommit 87c2c2f5f8bdf0bf87718a1d35fa22e280518740[m[33m ([m[1;36mHEAD -> [m[1;32mfeacture[m[33m, [m[1;31morigin/feacture[m[33m)[m
+Author: MasterSawXDD <62162808+MasterSawXDD@users.noreply.github.com>
+Date:   Sat Jul 29 14:23:53 2023 -0400
+
+    Form de inicio agregado
+
+[33mcommit 7eb9c1cb00db2c512a1c9ce34d5a45960f5c15eb[m
+Author: MasterSawXDD <62162808+MasterSawXDD@users.noreply.github.com>
+Date:   Sat Jul 29 13:41:36 2023 -0400
+
+    Archivos para funcionalidad de usuario agregados
+
+[33mcommit 771df873532de52361b91a7e5163adb8c4a03201[m
+Author: MasterSawXDD <62162808+MasterSawXDD@users.noreply.github.com>
+Date:   Sat Jul 29 13:32:49 2023 -0400
+
+    Conexion a base de datos agregada
+
+[33mcommit 525ea266560a65e321fcbdec785ce5dbc7ed677c[m
+Author: MasterSawXDD <62162808+MasterSawXDD@users.noreply.github.com>
+Date:   Sat Jul 29 13:10:25 2023 -0400
+
+    first commit
